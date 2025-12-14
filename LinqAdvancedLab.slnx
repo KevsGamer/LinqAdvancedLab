@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LinqAdvancedLab.Console/LinqAdvancedLab.Console.csproj" />
+  <Project Path="LinqAdvancedLab.Data/LinqAdvancedLab.Data.csproj" />
+  <Project Path="LinqAdvancedLab.Domain/LinqAdvancedLab.Domain.csproj" />
+  <Project Path="LinqAdvancedLab.Tests/LinqAdvancedLab.Tests.csproj" />
+</Solution>
